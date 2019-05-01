@@ -19,3 +19,5 @@ An android device with android 7.0 or later and a VR headset is required to play
 
 Android sdk tools and build tools are required to build the apk file.
 
+A pre-built apk is provided in the apk folder.
+
